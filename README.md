@@ -10,13 +10,7 @@ It allows users to register online, receive a unique event token, and join the o
 
 **Organizer:** IEEE SCT SB  
 **Event Name:** Ensemble 4.0  
-**Theme:** Celebrate. Connect. Empower.
 
-**Time:** 9:30 AM  
-**Date:** 3rd August  
-**Venue:** Seminar Hall (112)  
-**Slots:** Limited  
-**Eligibility:** Exclusive for IEEE Members  
 
 ---
 
@@ -60,4 +54,3 @@ This project was built to simplify event registrations, avoid manual entry, and 
 ---
 
 **Created for IEEE SCT SB**  
-*Honouring Legacy, Inspiring Growth.*
